@@ -1,0 +1,156 @@
+[
+    {
+        "question": "What is the speed of light?",
+        "subject": "Physics",
+        "topic": "Waves",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "Explain Newton's laws of motion.",
+        "subject": "Physics",
+        "topic": "Mechanics",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Describe quantum entanglement.",
+        "subject": "Physics",
+        "topic": "Quantum Mechanics",
+        "difficulty": "Hard",
+        "marks": 15
+    },
+    {
+        "question": "What is the speed of light?",
+        "subject": "Physics",
+        "topic": "Waves",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "Describe the basic structure of an atom.",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "What are Newton's laws of motion?",
+        "subject": "Physics",
+        "topic": "Mechanics",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Explain the process of photosynthesis.",
+        "subject": "Biology",
+        "topic": "Plant Biology",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "What is the role of mitochondria in a cell?",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Discuss the principles of relativity.",
+        "subject": "Physics",
+        "topic": "Theory of Relativity",
+        "difficulty": "Medium",
+        "marks": 15
+    },
+    {
+        "question": "Solve the Schrödinger equation for a particle in a box.",
+        "subject": "Physics",
+        "topic": "Quantum Mechanics",
+        "difficulty": "Hard",
+        "marks": 20
+    },
+    {
+        "question": "Describe the process of genetic mutation.",
+        "subject": "Biology",
+        "topic": "Genetics",
+        "difficulty": "Hard",
+        "marks": 15
+    },
+    {
+        "question": "Explain the concept of entropy in thermodynamics.",
+        "subject": "Physics",
+        "topic": "Thermodynamics",
+        "difficulty": "Hard",
+        "marks": 20
+    },
+    {
+        "question": "Analyze the impact of industrialization on climate change.",
+        "subject": "Environmental Science",
+        "topic": "Climate Change",
+        "difficulty": "Medium",
+        "marks": 15
+    },
+    {
+        "question": "Discuss the theories of economic development.",
+        "subject": "Economics",
+        "topic": "Development Economics",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "What is the theory of plate tectonics?",
+        "subject": "Geology",
+        "topic": "Plate Tectonics",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of supply and demand.",
+        "subject": "Economics",
+        "topic": "Microeconomics",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "Derive the equations of motion for a projectile.",
+        "subject": "Physics",
+        "topic": "Projectile Motion",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Analyze the impact of global trade policies on emerging economies.",
+        "subject": "Economics",
+        "topic": "International Trade",
+        "difficulty": "Hard",
+        "marks": 20
+    },
+    {
+        "question": "Explain the process of cellular respiration.",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Discuss the structure and function of DNA.",
+        "subject": "Biology",
+        "topic": "Genetics",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Evaluate the effectiveness of renewable energy sources in reducing carbon emissions.",
+        "subject": "Environmental Science",
+        "topic": "Renewable Energy",
+        "difficulty": "Hard",
+        "marks": 20
+    },
+    {
+        "question": "What are the implications of artificial intelligence on job markets?",
+        "subject": "Technology",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Hard",
+        "marks": 15
+    }
+]
