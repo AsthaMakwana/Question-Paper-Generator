@@ -31,6 +31,12 @@ const questions = [
 
 ```
 
+4. Launch the server
+
+```
+node src/app.js
+```
+
 Access the API endpoint using a tool like Postman or cURL:
 
 ```
@@ -44,7 +50,7 @@ Body: JSON object with keys totalMarks and difficulty. Example:
 ```
 {
   "totalMarks": 100,
-  "distribution": {
+  "difficultyDistribution": {
     "Easy":30,    
     "Medium": 50,  
     "Hard":20
