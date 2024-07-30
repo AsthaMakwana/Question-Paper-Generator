@@ -4,7 +4,7 @@ The Question Paper Generator is a Node.js application designed to automate the c
 
 # Prior setup 
 
-Ensure Node.js is installed
+Ensure Node.js is installed on your system.
 
 # Setup Instructions
 
@@ -59,3 +59,6 @@ Body: JSON object with keys totalMarks and difficulty. Example:
 ```
 
 Send the POST request to retrieve a list of questions filtered based on the provided totalMarks and difficulty criteria.
+
+Error Handling: 
+The application will return appropriate error messages if the input data is invalid or if there are not enough questions to meet the specified criteria.
