@@ -2,13 +2,9 @@ const Question = require('../models/question');
 
 class QuestionController {
 
-    /**
-   * Generating a question paper based on the total marks and difficulty distribution.
-   * 
-   * @param {Object} req - The request object containing the input data.
-   * @param {Object} res - The response object to send the results.
-   */
-
+    // Generating a question paper based on the total marks and difficulty distribution.
+    // req - The request object containing the input data.
+    // res - The response object to send the results
     static generateQuestionPaper(req, res) {
         const { totalMarks, difficultyDistribution } = req.body;
 
