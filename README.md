@@ -51,9 +51,9 @@ Body: JSON object with keys totalMarks and difficulty. Example:
 {
   "totalMarks": 100,
   "difficultyDistribution": {
-    "Easy":30,    
+    "Easy":20,    
     "Medium": 50,  
-    "Hard":20
+    "Hard":30
   }
 }
 ```
